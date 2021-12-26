@@ -13,4 +13,6 @@ Hi! My name is My. I make this as a hobby. Do you have an idea? Please tell me.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=My-MC&hide=contribs,prs?count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://raw.githubusercontent.com/My-MC/My-MC/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 [![](https://raw.githubusercontent.com/My-MC/My-MC/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/My-MC/My-MC/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
