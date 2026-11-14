@@ -1,18 +1,43 @@
-# My-MC Profile
+### My@My-MC
 
-## English
+**電波とネットワークと、ものづくり。**
 
-Hi! My name is My. I make this as a hobby. Do you have an idea? Please tell me.
+ネットワークとサーバーが好きな学生です。自宅ラボで Proxmox VE・Incus・VyOS を触りながら、SDCC の皆さんのお力添えをいただいて BGP・IPv6 を勉強しています。電波から AI、Web まで「動くもの」をつくって試すのが好きです。
 
-## Japanese
+<sub>A student who loves networks and servers — homelab, BGP/IPv6, Rust, fonts and audio tools.</sub>
 
-こんにちは。僕はMyと申します。僕はいろんなものを趣味で作っています。アイディアがあればお気軽に。(時々日本語がおかしくなるのは気にしないでください。)
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+```console
+$ curl -sL my-mc.dev/hi
+```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=My-MC&hide=contribs,prs?count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![](https://raw.githubusercontent.com/My-MC/My-MC/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+#### 🛠 Projects
 
-[![](https://raw.githubusercontent.com/My-MC/My-MC/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![](https://raw.githubusercontent.com/My-MC/My-MC/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
+| | |
+|---|---|
+| [**Shirabe Meter Suite**](https://github.com/My-MC/shirabe) | Rust 製オーディオメーター（VST3 / CLAP / スタンドアロン） |
+| [**KumiType**](https://github.com/My-MC/KumiType) | Cascadia Code / Mono と日本語フォントを合成する再現可能なビルドシステム |
+| [**Lumin**](https://my-mc.dev/projects/lumin/) | 端末内 AI で段階的なヒントを返す学習支援アプリ（ALG・チーム開発）🏆 SBMC 2026 銅賞 |
+| [**surreal-knowledge-base**](https://github.com/My-MC/surreal-knowledge-base) | SurrealDB + bge-m3 のローカルファースト知識ベース（MCP サーバー / CLI） |
+| [**自宅ラボ**](https://my-mc.dev/projects/homelab/) | Proxmox VE / Incus / VyOS の検証網と監視・通知を設定ファイルで運用 |
+| [**portfolio**](https://github.com/My-MC/portfolio) | ポートフォリオ兼ブログ [my-mc.dev](https://my-mc.dev)（Astro + Bun / Cloudflare Workers） |
+
+#### 📡 Activities
+
+- 文化会 無線研究部 [JA1YXP](https://ja1yxp.radio/) — アマチュア無線・部室サーバー/ネットワーク
+- [SIGINT](https://sigint179.net/)（ネットワーク研究会）— ICTSC 2026 一次予選突破
+- [ALG](https://alg-sit.club/)（AI Love GPU）— 公式サイトの設計・実装
+- [しばよこ](https://shibayoko.com/) — エンジニア・デザイナーサークル
+
+#### 🧰 Stack
+
+**Infra** Debian · Proxmox VE · Incus · VyOS · NEC IX · nftables · Prometheus / Alertmanager  
+**Network** BGP · IPv6 · GRE  
+**Dev** Rust · Python · TypeScript · Astro · Tauri · Bun  
+**Delivery** GitHub Actions · Cloudflare Workers · Docker
+
+#### 🔗 Links
+
+[![Web](https://img.shields.io/badge/Web-my--mc.dev-111?style=flat-square)](https://my-mc.dev)
+[![X](https://img.shields.io/badge/X-@imymemine256-111?style=flat-square&logo=x)](https://x.com/imymemine256)
