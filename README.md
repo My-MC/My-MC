@@ -28,6 +28,10 @@ $ curl -sL my-mc.dev/hi
 - [ALG](https://alg-sit.club/)（AI Love GPU）— 公式サイトの設計・実装
 - [しばよこ](https://shibayoko.com/) — エンジニア・デザイナーサークル
 
+#### 📜 Certifications
+
+- 基本情報技術者（FE）
+
 #### 🧰 Stack
 
 **Infra** Debian · Proxmox VE · Incus · VyOS · NEC IX · nftables · Prometheus / Alertmanager  
