@@ -14,14 +14,12 @@ $ curl -sL my-mc.dev/hi
 
 #### 🛠 Projects
 
-| | |
-|---|---|
-| [**Shirabe Meter Suite**](https://github.com/My-MC/shirabe) | Rust 製オーディオメーター（VST3 / CLAP / スタンドアロン） |
-| [**KumiType**](https://github.com/My-MC/KumiType) | Cascadia Code / Mono と日本語フォントを合成する再現可能なビルドシステム |
-| [**Lumin**](https://my-mc.dev/projects/lumin/) | 端末内 AI で段階的なヒントを返す学習支援アプリ（ALG・チーム開発）🏆 SBMC 2026 銅賞 |
-| [**surreal-knowledge-base**](https://github.com/My-MC/surreal-knowledge-base) | SurrealDB + bge-m3 のローカルファースト知識ベース（MCP サーバー / CLI） |
-| [**自宅ラボ**](https://my-mc.dev/projects/homelab/) | Proxmox VE / Incus / VyOS の検証網と監視・通知を設定ファイルで運用 |
-| [**portfolio**](https://github.com/My-MC/portfolio) | ポートフォリオ兼ブログ [my-mc.dev](https://my-mc.dev)（Astro + Bun / Cloudflare Workers） |
+- [**Shirabe Meter Suite**](https://github.com/My-MC/shirabe) — Rust 製オーディオメーター（VST3 / CLAP / スタンドアロン）
+- [**KumiType**](https://github.com/My-MC/KumiType) — Cascadia Code / Mono と日本語フォントを合成する再現可能なビルドシステム
+- [**Lumin**](https://my-mc.dev/projects/lumin/) — 端末内 AI で段階的なヒントを返す学習支援アプリ（ALG・チーム開発）🏆 SBMC 2026 銅賞
+- [**surreal-knowledge-base**](https://github.com/My-MC/surreal-knowledge-base) — SurrealDB + bge-m3 のローカルファースト知識ベース（MCP サーバー / CLI）
+- [**自宅ラボ**](https://my-mc.dev/projects/homelab/) — Proxmox VE / Incus / VyOS の検証網と監視・通知を設定ファイルで運用
+- [**portfolio**](https://github.com/My-MC/portfolio) — ポートフォリオ兼ブログ [my-mc.dev](https://my-mc.dev)（Astro + Bun / Cloudflare Workers）
 
 #### 📡 Activities
 
